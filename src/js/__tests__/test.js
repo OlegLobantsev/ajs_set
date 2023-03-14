@@ -1,9 +1,9 @@
 import Team from '../app';
 
 class Character {
-  constructor(name, role) {
+  constructor(name, type) {
     this.name = name;
-    this.role = role;
+    this.type = type;
   }
 }
 
